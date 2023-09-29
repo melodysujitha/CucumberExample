@@ -26,7 +26,7 @@ public class TestRunner extends AbstractTestNGCucumberTests {
 
     @BeforeSuite
     public void beforeSuite() {
-        System.out.println("================ BEFORE SUITE ================");
+        System.out.println("================ BEFORE SUITE edited================");
     }
 
     @AfterSuite
